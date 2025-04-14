@@ -1,4 +1,4 @@
-module github.com/melina-delgado/nested-gomod-example/single-package
+module github.com/melina-delgado/single-gomod-example
 
 go 1.24.2
 
