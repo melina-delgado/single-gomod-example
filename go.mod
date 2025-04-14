@@ -4,7 +4,7 @@ go 1.24.2
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.2
-	github.com/aws/aws-sdk-go-v2/service/sqs v1.38.5
+	github.com/confluentinc/confluent-kafka-go/v2 v2.8.0
 )
 
 require (
