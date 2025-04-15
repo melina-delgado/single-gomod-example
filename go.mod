@@ -1,6 +1,6 @@
 module github.com/melina-delgado/single-gomod-example
 
-go 1.24.2
+go 1.23.8
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.2
